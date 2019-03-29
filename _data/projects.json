@@ -13,6 +13,20 @@
 		"url": "https://github.com/zhuxinyu114/Micro8",
 		"date": "2018-03-28",
 		"tags": ["C","C++"]
+	},
+	{
+		"name": "远程代码编译VS Code",
+		"image": "placeholder.jpg",
+		"url": "https://github.com/zhuxinyu114/code-server",
+		"date": "2018-03-29",
+		"tags": ["TypeScript"]
+	},
+	{
+		"name": "集成API",
+		"image": "placeholder.jpg",
+		"url": "https://github.com/zhuxinyu114/public-apis",
+		"date": "2018-03-29",
+		"tags": ["Python"]
 	}
 
 ]
